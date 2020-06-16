@@ -415,6 +415,12 @@ h1, h2, h3, h4 {
   position: relative;
   z-index: 2; }
 
+.section#next-section {
+  padding-top: 25rem;
+  padding-bottom: 7rem;
+  position: relative;
+  z-index: 2; }
+
 .text-black {
   color: #000 !important; }
 
